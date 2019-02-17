@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+
+    <color name="backmain">#B29C9A9B</color>
+    <color name="back">#9C9A9B</color>
+    <color name="pink">#D81B60</color>
+    <color name="white">#fff</color>
+
+
+    <color name="darkpopti">#4CAF50</color>
+    <color name="lightblue">#009688</color>
+
+    <color name="profile">#74796D</color>
+    <color name="wallapp">#E7CF0A</color>
+    <color name="voice">#FF5722</color>
+
+    <color name="Document">#3F51B5</color>
+</resources>
